@@ -1,0 +1,11 @@
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/bin/Release/net7.0/TaskManager.Domain.deps.json
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/bin/Release/net7.0/TaskManager.Domain.dll
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/bin/Release/net7.0/TaskManager.Domain.pdb
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/Release/net7.0/TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/Release/net7.0/TaskManager.Domain.AssemblyInfoInputs.cache
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/Release/net7.0/TaskManager.Domain.AssemblyInfo.cs
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/Release/net7.0/TaskManager.Domain.csproj.CoreCompileInputs.cache
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/Release/net7.0/TaskManager.Domain.dll
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/Release/net7.0/refint/TaskManager.Domain.dll
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/Release/net7.0/TaskManager.Domain.pdb
+/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/Release/net7.0/ref/TaskManager.Domain.dll

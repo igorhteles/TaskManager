@@ -1,0 +1,15 @@
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/bin/Release/net7.0/TaskManager.Services.deps.json
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/bin/Release/net7.0/TaskManager.Services.dll
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/bin/Release/net7.0/TaskManager.Services.pdb
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/bin/Release/net7.0/TaskManager.Domain.dll
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/bin/Release/net7.0/TaskManager.Domain.pdb
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/TaskManager.Services.csproj.AssemblyReference.cache
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/TaskManager.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/TaskManager.Services.AssemblyInfoInputs.cache
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/TaskManager.Services.AssemblyInfo.cs
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/TaskManager.Services.csproj.CoreCompileInputs.cache
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/TaskMana.2683F08E.Up2Date
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/TaskManager.Services.dll
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/refint/TaskManager.Services.dll
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/TaskManager.Services.pdb
+/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/Release/net7.0/ref/TaskManager.Services.dll

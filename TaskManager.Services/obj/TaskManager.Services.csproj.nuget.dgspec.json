@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/igorteles/Projects/TaskManager/TaskManager.Services/TaskManager.Services.csproj": {}
+  },
+  "projects": {
+    "/Users/igorteles/Projects/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/igorteles/Projects/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj",
+        "projectName": "TaskManager.Domain",
+        "projectPath": "/Users/igorteles/Projects/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj",
+        "packagesPath": "/Users/igorteles/.nuget/packages/",
+        "outputPath": "/Users/igorteles/Projects/TaskManager/TaskManager.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/igorteles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/igorteles/Projects/TaskManager/TaskManager.Services/TaskManager.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/igorteles/Projects/TaskManager/TaskManager.Services/TaskManager.Services.csproj",
+        "projectName": "TaskManager.Services",
+        "projectPath": "/Users/igorteles/Projects/TaskManager/TaskManager.Services/TaskManager.Services.csproj",
+        "packagesPath": "/Users/igorteles/.nuget/packages/",
+        "outputPath": "/Users/igorteles/Projects/TaskManager/TaskManager.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/igorteles/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/igorteles/Projects/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj": {
+                "projectPath": "/Users/igorteles/Projects/TaskManager/TaskManager.Domain/TaskManager.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
